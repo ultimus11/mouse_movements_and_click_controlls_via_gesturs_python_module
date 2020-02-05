@@ -1,0 +1,2 @@
+import mouse_controll
+mouse_controll.controll_mouse_pointer_and_click()
